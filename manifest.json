@@ -1,0 +1,19 @@
+{
+    "name": "Canvas",
+    "version": "1.0.0",
+
+    "author": {
+        "name": "Pavel Akhmetchanov",
+        "email": "pavel.power@gmail.com",
+        "url": "https://github.com/pavelpower"
+    },
+
+    "apiVersion": "1.0",
+    "location": "fullscreen",
+    "defaultLocale": "ru_RU",
+    "private": false,
+    "singleInstall": true,
+    "parameters": [
+        {}
+    ]
+}
